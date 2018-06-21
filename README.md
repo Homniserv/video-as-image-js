@@ -7,3 +7,7 @@ https://odetocode.com/blogs/scott/archive/2013/01/04/capturing-html-5-video-to-a
 
 https://www.w3schools.com/html/html_youtube.asp
 
+https://www.lifewire.com/link-to-specific-part-of-youtube-video-1616414
+
+Start and END :
+https://www.youtube.com/watch?v=zeI-JD6RO0k
